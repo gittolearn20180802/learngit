@@ -1,4 +1,4 @@
 ﻿
 
-git is a version controlsystem.
+git is a distributing version controlsystem.
 git is free software.
